@@ -16,11 +16,11 @@ Esse projeto foi desenvolvido utilizando essas tecnologias:
 
 O site de Urna Eletrônica Online foi um projeto desenvolvido durante as aulas da plataforma B7WEB do módulo 6, contendo 8 aulas da disciplina de JavaScript. 💜 
 
-## 🔖 Licença
+## 🔖 License
 
-Você pode visualizar a licença do projeto através dos links abaixo:
+Você pode visualizar a license do projeto através dos links abaixo:
 
-- [Licença]() 
+- [LICENSE]((LICENSE.md)) 
 
 <p align="center">Desenvolvido por Shayane Teixeira</p>
 <p align="center">Com ajuda da B7WEB</p>
