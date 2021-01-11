@@ -18,9 +18,7 @@ O site de Urna Eletrônica Online foi um projeto desenvolvido durante as aulas d
 
 ## 🔖 License
 
-Você pode visualizar a license do projeto através dos links abaixo:
-
-- [LICENSE](LICENSE.md)
+Verifique a license do projeto
 
 <p align="center">Desenvolvido por Shayane Teixeira</p>
 <p align="center">Com ajuda da B7WEB</p>
