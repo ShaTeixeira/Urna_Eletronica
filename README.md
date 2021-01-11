@@ -7,9 +7,9 @@
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido utilizando essas tecnologias:
-- [HTML]()
-- [CSS]()
-- [JavaScript]()
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://www.javascript.com/)
 
 ## 💻 Projeto
 
